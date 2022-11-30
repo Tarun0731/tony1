@@ -1,4 +1,4 @@
-Create the mail
+Create the new mail
 
 Frist name    middle name   last name
 
@@ -9,7 +9,5 @@ user name
 create password
 
 re-enter password
-
-Mobile number- +91
 
 Sign UP
