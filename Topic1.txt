@@ -1,0 +1,15 @@
+Create the mail
+
+Frist name    middle name   last name
+
+Mail Id
+
+user name
+
+create password
+
+re-enter password
+
+Mobile number- +91
+
+Sign UP
