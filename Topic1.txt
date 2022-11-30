@@ -11,3 +11,7 @@ create password
 re-enter password
 
 Sign UP
+
+conclusion
+
+end part
